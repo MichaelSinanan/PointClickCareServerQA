@@ -1,7 +1,8 @@
 # PointClickCareServerQA
 
 
-qadoc.docx- instructions
+qadoc.docx- Instructions
 
 
-smartsheettest.zip - source code
+smartsheettest.zip - Source code
+
